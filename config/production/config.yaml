@@ -2,6 +2,11 @@
 
 baseURL: https://greenweb-site.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 875ccef1-46ce-46ab-b02f-3c7536fdf1a7
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
